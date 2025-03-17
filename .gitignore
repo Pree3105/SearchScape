@@ -1,0 +1,8 @@
+# Ignore node_modules (dependencies)
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Ignore package-lock.json (if you don’t want to track dependency changes)
+package-lock.json
